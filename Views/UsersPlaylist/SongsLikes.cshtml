@@ -1,0 +1,34 @@
+﻿@model Itunes_13.Models.ViewModels.SongsLikesViewModel
+
+@{
+    ViewData["Title"] = "SongsLikes";
+}
+
+<h1>SongsLikes</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SongsLikes">
+            <div class="form-group">
+                <label asp-for="Id" class="control-label">Artist</label>
+                <select asp-for="Id" class="form-control" asp-items="@Model.Artists"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="form-control" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (@Model.Artist != null)
+{
+    <h4>@Model.Artist.Name</h4>
+    <ul>
+        @foreach (KeyValuePair<string, int> songsLike in @Model.SongsLikes)
+        {
+            <li>@songsLike.Key : @songsLike.Value</li>
+        }
+    </ul>
+}
+
+

@@ -1,0 +1,188 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Itunes_13
+build_property.RootNamespace = Itunes_13
+build_property.ProjectDir = /Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Artist/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Artist/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0L0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Artist/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0L0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Artist/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Artist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Artist/TopSellingArtist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJ0aXN0L1RvcFNlbGxpbmdBcnRpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Ratings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmF0aW5ncy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Ratings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmF0aW5ncy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Ratings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmF0aW5ncy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Ratings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmF0aW5ncy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Ratings/Rate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmF0aW5ncy9SYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Song/Buy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29uZy9CdXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Song/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29uZy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Song/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29uZy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Song/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29uZy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Song/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29uZy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Song/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29uZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Song/TopSellingSong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29uZy9Ub3BTZWxsaW5nU29uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Transactions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb25zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Transactions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb25zL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Transactions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb25zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Transactions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb25zL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Transactions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNhY3Rpb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/User/AddMoney.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9BZGRNb25leS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/User/ViewSongs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9WaWV3U29uZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/UsersPlaylist/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnNQbGF5bGlzdC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/UsersPlaylist/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnNQbGF5bGlzdC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/UsersPlaylist/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnNQbGF5bGlzdC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/UsersPlaylist/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnNQbGF5bGlzdC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/UsersPlaylist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnNQbGF5bGlzdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/UsersPlaylist/SongsLikes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnNQbGF5bGlzdC9Tb25nc0xpa2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/manjotkaurmand/Downloads/Itunes_13-2/Itunes_13/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y3gdjqfxoe
